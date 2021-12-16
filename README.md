@@ -1,3 +1,3 @@
-# Assignment 3
+# Book appointments with Python
 
-Hi Les, please let me know if you need help pushing to this repository.
+This program was designed for a company that sought to use Python to develop a appointment booking app.
